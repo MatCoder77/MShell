@@ -2,7 +2,7 @@
 
 Shell implemented in C. 
 Supported operations:
-* cd, exit help
+* cd, exit, help
 * background presess mode (&)
 * IO redirection (<, >)
 * stderr redirection (2>)
